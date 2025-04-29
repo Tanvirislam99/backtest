@@ -1,0 +1,5 @@
+streamlit
+pandas
+bdshare
+matplotlib
+git+https://github.com/enzoampil/fastquant.git
